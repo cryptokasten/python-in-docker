@@ -1,0 +1,14 @@
+#+TITLE: Python in docker
+#+TAGS: cryptokasten, docker, python
+#+PROPERTY: header-args :session *shell python-in-docker* :results silent raw
+#+OPTIONS: ^:nil
+
+[[https://github.com/cryptokasten][file:https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/cryptokasten&label=Cryptokasten&query=$.public_repos]]
+
+Python is an interpreted, interactive, object-oriented, open-source programming language.
+
+** General info
+
+- Docker Hub: https://hub.docker.com/_/python/
+
+- Github: https://github.com/docker-library/python
